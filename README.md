@@ -10,8 +10,10 @@ This table summarizes December's temperature statistics over time.
 
 ![Dec_Temp](https://user-images.githubusercontent.com/104540261/183264516-2998eacb-9b3b-4c3f-b627-3f00d6f637d2.png)
 
-The statics for June and December show us the differences in the seasonal climates. Some takeaways:
-1)The average temperature in June and December is 75 and 71 degrees. This shows a moderate temperature and littel variance between June and December.
+The statistics for June and December show us the differences in the seasonal climates. Some takeaways:
+
+
+1) The average temperature in June and December is 75 and 71 degrees. This shows a moderate temperature and little variance between June and December.
 2) The highest temperatures in June and December were 85 (June) and 83 (December).
 3) The lowest temperatures in June and December were 56 (December) and 64 (June). This shows the greatest variance in data. December's lowest temperature is 8 degrees lower than June's.June has a standard deviations of 3.25 and December has a standard deviation of 3.74.
 
