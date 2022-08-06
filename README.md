@@ -1,15 +1,14 @@
 # Surfs Up Weather Analysis
 ## Project Overview
-Toe review weather patterns in Hawaii as we look to open a surf and ice cream shop. This project focused on the weather temperature in June and December, looking at different statistics between the two periods to help assess whether an ice cream/surf shop would have good weather conditions in which to operate.
+The purpose of this analysis is to review weather patterns in Hawaii for W. Avy as we look to open a surf and ice cream shop. This analysis is mainly focused on the weather temperature in June and December. When we look at the different statistics between June and December it will aid in the assessment of whether an ice cream/surf shop will have good weather conditions for surfing and the enjoyment of ice cream. These seasonal climate conditions are key determining factors in whether this business model will be successful or not.
 
-## Results
-The following tables summarize June's temperature statistics over time.
+This table summarizes June's temperature statistics over time.
 
-![June Temperate Statistics](https://github.com/Tavender22/surfs_up/blob/master/December%20Temp%20Stats.png)
+![June_Temp](https://user-images.githubusercontent.com/104540261/183264495-9ac3850c-1456-48e5-9b22-732ac42b5e48.png)
 
-The following table summarizes Decembers temperature statistics over time.
+This table summarizes Decembers temperature statistics over time.
 
-![December Temperature Statistics](https://github.com/Tavender22/surfs_up/blob/master/December%20Temp%20Stats.png)
+![Dec_Temp](https://user-images.githubusercontent.com/104540261/183264516-2998eacb-9b3b-4c3f-b627-3f00d6f637d2.png)
 
 These two tables tell us about the differing weather patterns for the two monthly periods. Some takeaways:
 1) Average temperature between June and December is 75 and 71 degrees respectively, show a moderate temperature and very little fluctuation between the two periods from an average standpoint.
@@ -19,4 +18,7 @@ These two tables tell us about the differing weather patterns for the two monthl
 ## Summary
 Oevrall the weather in December and June are historically very similar, although December has a wider range of results, with its high being close to June's but its low well below June's.  
 
-Additional queries that could be run include: Precipation difference between June and December to determine is one has more rainy weather, as well as a comaparison by weather station, as we may see higher/lower temperatures and precipitation levels at different locations. We would be primarily interested in the weather station closest to our prospective location, which would narrow the results and provide the best data for us to consider.
+
+
+Other queries that could prove useful in the evaluation of this business model are precipitation and a comparitive evaluation of each weather stations data. The weather station's data closest to the prospective location would provide the most accurate data. The difference in precipation in June vs December would as be valuable as well.
+This data will well us if business will be bombing for both seasons or if inclimate weather will turn potential customers away from the beach.
