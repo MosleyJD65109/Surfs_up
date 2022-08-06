@@ -6,7 +6,7 @@ This table summarizes June's temperature statistics over time.
 
 ![June_Temp](https://user-images.githubusercontent.com/104540261/183264495-9ac3850c-1456-48e5-9b22-732ac42b5e48.png)
 
-This table summarizes Decembers temperature statistics over time.
+This table summarizes December's temperature statistics over time.
 
 ![Dec_Temp](https://user-images.githubusercontent.com/104540261/183264516-2998eacb-9b3b-4c3f-b627-3f00d6f637d2.png)
 
