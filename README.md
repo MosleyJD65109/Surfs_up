@@ -17,7 +17,7 @@ These two tables tell us about the differing weather patterns for the two monthl
 
 ## Summary
 Oevrall the weather in December and June are historically very similar, although December has a wider range of results, with its high being close to June's but its low well below June's.  
-
+When we look at the results of this data set we can see that December's high is very close to June's but December's low is well below June's.Also December's data indicates that is has a wider range of temperatures than June. Given these differences in June's and December's weather, historically the two seasons are very similar.
 
 
 Other queries that could prove useful in the evaluation of this business model are precipitation and a comparitive evaluation of each weather stations data. The weather station's data closest to the prospective location would provide the most accurate data. The difference in precipation in June vs December would as be valuable as well.
